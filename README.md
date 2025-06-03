@@ -7,9 +7,9 @@
 ⚡ **Dato curioso:** Siempre estoy investigando, aprendiendo y buscando estar al día con mi natural companion (you know who it is) y TripleTen LATAM.
 
 🚀 **Proyectos en Curso**
-- 🛠 Mejorando mis habilidades en **JavaScript avanzado**.
-- 🔐 Explorando **seguridad en Windows** y políticas WDAC.
-- 📌 Probando integración de **IA en desarrollo web**.
+- 🛠 Mejorando mis habilidades en lo respectivo.
+- 🔐 Explorando sobre cada intigrante paso, ramam, subsistema o cualquier tema que se presente.
+- 📌 Probando integración de **IA en desarrollo web** y demás cosas nuevas que no interfieran en mi aprendizaje y desarrollo.
 
 💡 **Tecnologías y Herramientas**
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat)
