@@ -1,15 +1,15 @@
 ## 👋 ¡Hola! Soy Victor (o bien, Tigre y/o Tiggreee)!
 
-💻 Apasionado por los sistemas y el desarrollo web con HTML, CSS y JavaScript (por ahora 😆).
-🔍 Explorando configuraciones intermedias y avanzadas en estas tecnologías, potenciadas con herramientas de IA.
+💻 Apasionado por los sistemas y el desarrollo web con HTML, CSS y JavaScript (por ahora).
+🔍 Explorando configuraciones basica, intermedias, incluso avanzadas en estas tecnologías, potenciadas hasta cierto punto con herramientas de IA.
 🌱 Actualmente aprendiendo más sobre **seguridad informática, optimización de código y automatización**.
 📫 Puedes contactarme en: [notlikeiusedto@gmail.com](mailto:notlikeiusedto@gmail.com).
-⚡ **Dato curioso:** Siempre estoy investigando, aprendiendo y buscando estar al día con mi natural companion (you know who it is) y TripleTen LATAM.
+⚡ **Dato curioso:** Siempre estoy investigando, aprendiendo y buscando estar al día con mi natural companion y TripleTen LATAM.
 
 🚀 **Proyectos en Curso**
 - 🛠 Mejorando mis habilidades en lo respectivo.
-- 🔐 Explorando sobre cada intigrante paso, ramam, subsistema o cualquier tema que se presente.
-- 📌 Probando integración de **IA en desarrollo web** y demás cosas nuevas que no interfieran en mi aprendizaje y desarrollo.
+- 🔐 Explorando sobre cada intigrante paso, rama, subsistema o cualquier inconveniente que se presente.
+- 📌 Probando integración de la IA en el desarrollo web y demás cosas nuevas que no interfieran en mi aprendizaje y desarrollo.
 
 💡 **Tecnologías y Herramientas**
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat)
