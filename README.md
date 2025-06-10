@@ -3,7 +3,7 @@
 💻 Apasionado por los sistemas y el desarrollo web con HTML, CSS y JavaScript (por ahora).
 🔍 Explorando configuraciones basica, intermedias, incluso avanzadas en estas tecnologías, potenciadas hasta cierto punto con herramientas de IA.
 🌱 Actualmente aprendiendo más sobre **seguridad informática, optimización de código y automatización**.
-📫 Puedes contactarme en: [notlikeiusedto@gmail.com](mailto:notlikeiusedto@gmail.com).
+📫 Puedes contactarme en: [tiggreee@outlook.com](mailto:tiggreee@outlook.com).
 ⚡ **Dato curioso:** Siempre estoy investigando, aprendiendo y buscando estar al día con mi natural companion y TripleTen LATAM.
 
 🚀 **Proyectos en Curso**
