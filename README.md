@@ -23,5 +23,6 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-blue?style=flat)
 ![Copilot](https://img.shields.io/badge/-Copilot-darkgreen?style=flat)
 
-<!-- Este README aparece en mi perfil, puedes ver más de mis proyectos aquí. -->
 
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,discord,react,)](https://skillicons.dev)
