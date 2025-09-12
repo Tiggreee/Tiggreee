@@ -25,4 +25,8 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,git,github,discord,ai,linkedin,nodejs,vscode,windows)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,git,github,discord,ai,linkedin,nodejs,vscode,windows" />
+  </a>
+</p>
