@@ -64,7 +64,8 @@ Before going full-time into development, I spent 10+ years leading teams and han
 
 ---
 
-## GitHub Stats
+GitHub Stats
+------------
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tiggreee&theme=dark" alt="Victor's GitHub stats" />
@@ -74,6 +75,4 @@ Before going full-time into development, I spent 10+ years leading teams and han
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiggreee&layout=compact&theme=dark" alt="Top Langs" />
 </p>
 
-*Available for remote opportunities · Let's build something.*
-
-</div>
+Available for remote opportunities · Let's build something.
