@@ -67,11 +67,11 @@ Before going full-time into development, I spent 10+ years leading teams and han
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tiggreee&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Victor's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tiggreee&theme=dark" alt="Victor's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiggreee&layout=compact&theme=github_dark&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiggreee&layout=compact&theme=dark" alt="Top Langs" />
 </p>
 
 *Available for remote opportunities · Let's build something.*
