@@ -1,89 +1,91 @@
-<div align="center">
+# Victor Salgado
 
-# Victor Salgado · Tiggreee
+## Bio
 
-**Full Stack Developer · AI Integrations · Data · Remote-Ready · Bilingual EN/ES**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-vmdev.lat-1e293b?style=for-the-badge&logo=vercel&logoColor=white)](https://vmdev.lat/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-victor-salgado-tiggreee-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victor-salgado-tiggreee)
-[![Email](https://img.shields.io/badge/Email-tiggreee@vmdev.lat-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiggreee@vmdev.lat)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-+524341696576-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/524341696576)
-
-</div>
+Full Stack Developer and Systems Architect with expertise in MERN (MongoDB, Express, React, Node.js) and TypeScript. Specialized in building production-grade applications with a focus on reliability, scalability, and architectural clarity. Driven by structured thinking, ownership mentality, and delivering solutions that work at scale.
 
 ---
 
-## Recruiter Snapshot
+## What I'm Working On Now
 
-| | |
-|--|--|
-| **Role Fit** | Full Stack Engineer (React, Node.js, TypeScript, PostgreSQL) |
-| **What I Ship** | Production-ready web apps with clear architecture, API reliability, and maintainable code |
-| **Business Focus** | Convert requirements into measurable delivery, not demo-only code |
-| **Work Model** | Remote for US teams · Immediate availability · Strong US/LatAm timezone overlap |
-| **Engagement** | Contractor/B2B friendly · Long-term product ownership mindset |
-| **Direct Contact** | WhatsApp +52 434 169 6576 |
+- **mindtrack-ai** – Semantic project management system with local LLM integration for intelligent task reasoning and contextual awareness.
+- **tigre-labs-context-engine** – Multi-agent contextual reasoning engine for autonomous knowledge synthesis and decision support.
+- **vmDevWeb** – Developer portfolio and ecosystem platform showcasing professional projects and capabilities.
 
 ---
 
-## About Me
+## What I Bring to a Team
 
-I build complete web applications end-to-end — from database design and backend logic to frontend implementation and deployment. I specialize in the MERN stack (MongoDB, Express, React, Node.js) with TypeScript, and I care about writing clean, maintainable code that actually works in production.
+**Architectural Thinking**  
+Design systems that scale. Approach problems from first principles. Think in layers: data, business logic, presentation. Decompose complexity into manageable, testable units.
 
-Before going full-time into development, I spent 10+ years leading teams and handling bilingual operations — which means I communicate clearly, ship with context, and don't need hand-holding.
+**Production-Focused Development**  
+Write code meant to run. Error handling, monitoring, logging, and observability from day one. No "it works on my machine." Deployment and maintenance matter.
 
-- Based in Querétaro, Mexico — working 100% remote
-- Currently building **mindtrack-ai** (AI project management with semantic search)
-- Open to: Full Stack, Frontend, or Node.js backend roles
-- Available to start immediately
+**Clear Communication**  
+Document decisions. Explain trade-offs. Make technical constraints visible. Help non-technical stakeholders understand technical reality.
+
+**Ownership Mindset**  
+Take responsibility for what you build. Debug to root cause. Iterate based on feedback. Commit to reliability and user experience.
 
 ---
 
 ## Tech Stack
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+**Frontend**  
+React, TypeScript, Vite, Tailwind CSS, responsive design, state management (Redux, Context API)
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+**Backend**  
+Node.js, Express, RESTful APIs, database design, authentication, middleware architecture
 
-### Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+**Databases**  
+MongoDB (document modeling, aggregation), PostgreSQL (relational design, optimization)
+
+**AI/LLMs**  
+Ollama, bring-your-own-key (BYOK) integrations, semantic search, vector embeddings, prompt engineering
+
+**DevOps & Deployment**  
+Railway, Docker, PM2, GitHub Actions, CI/CD pipelines, environment management
+
+**Tools & Workflow**  
+Postman, Insomnia, Figma (design collaboration), VS Code, Git, command line
 
 ---
 
 ## Featured Projects
 
-| Project | Description | Stack |
-|--|--|--|
-| **[mindtrack-ai](https://github.com/Tiggreee/mindtrack-ai)** | AI-powered project management with semantic search & local LLM support | TypeScript, React, Node.js, Ollama |
-| **[sentrylog](https://github.com/Tiggreee/sentrylog)** | Real-time security monitoring dashboard for CCTV events, vehicle recognition & alert management | React, Node.js, Express, PostgreSQL |
-| **[FacturAutentico](https://github.com/Tiggreee/FacturAutentico)** | CFDI 4.0 invoicing system for a real family business | React, Vite, JavaScript |
-| **[TriApp](https://github.com/Tiggreee/TriApp-Frontend)** | Full stack app with REST API, authentication, 40+ production deployments | Node.js, Express, MongoDB, React |
+**mindtrack-ai**  
+Semantic project management system that uses local LLMs to understand project context, extract relationships between tasks, and provide intelligent recommendations. Built with React + TypeScript frontend, Node.js backend, and Ollama for local inference.
+
+**sentrylog**  
+Structured logging and error tracking utility for production applications. Provides real-time insights into application behavior, performance metrics, and error patterns. Used across multiple projects for observability.
+
+**FacturAutentico**  
+Invoice and billing management system with authentication, user roles, and transactional integrity. Demonstrates full-stack capability: secure backend, intuitive UI, production-ready database design.
+
+**TriApp**  
+Ride-sharing application prototype with real-time location tracking, user matching, and payment integration. Full-stack implementation including map integration, push notifications, and complex state management.
+
+**vmDevWeb**  
+Professional portfolio ecosystem showcasing development work, case studies, and project demonstrations. Built to be a living example of clean code, responsive design, and user-centered development.
 
 ---
 
-## Education & Credentials
+## Open To
 
-| Credential | Issuer |
-|--|--|
-| Full Stack Developer Certification | TripleTen LatAm |
-| EF SET English Certificate — C2 Proficient | EF Standard English Test |
-| IT Fundamentals | IBM SkillsBuild |
-| Lic. en Ciencias Financieras, Economía y Negocios Internacionales | Universidad de Morelia |
+- Full Stack roles (React + Node.js, TypeScript-first, scalable architecture)
+- Frontend roles (React + TypeScript, component systems, state management)
+- Backend roles (Node.js + Express + PostgreSQL, API design, systems thinking)
+- AI-assisted development roles (semantic search, LLM integration, knowledge synthesis)
 
 ---
 
-> Open to Full Stack, Frontend, and Node.js backend roles.
-> **Available to start immediately.**
+## Contact
+
+**Email** – tiggreee@vmdev.lat  
+**Location** – Morelia, México  
+**Availability** – Remote-ready, open to flexible arrangements
+
+---
+
+*This README reflects my current focus and philosophy. Always learning, always building, always shipping.*
