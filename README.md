@@ -12,6 +12,13 @@
 
 ---
 
+## Recruiter Snapshot
+
+- **Role fit**: Full Stack Engineer (React, Node.js, TypeScript, PostgreSQL)
+- **What I ship**: production-ready web apps with clear architecture, API reliability, and maintainable code
+- **Business focus**: convert requirements into measurable delivery, not demo-only code
+- **Work model**: Remote / Hybrid, immediate availability, US and LatAm friendly timezone overlap
+
 ## About me
 
 I build complete web applications end-to-end — from database design to UI to deployment.
@@ -59,7 +66,7 @@ Before going full-time into development, I spent 10+ years leading teams and han
 |--------|-------------|-------|
 | [**mindtrack-ai**](https://github.com/Tiggreee/mindtrack-ai) | AI-powered project management with semantic search & local LLM support (Ollama/BYOK) | TypeScript, React, Node.js, Ollama |
 | [**sentrylog**](https://github.com/Tiggreee/sentrylog) | Real-time security monitoring dashboard for CCTV events, vehicle recognition & alert management | React, Node.js, Express, PostgreSQL |
-| [**FacturAutentico**](https://github.com/Tigre-Labs/FacturAutentico) | CFDI 4.0 invoicing system for a real business | React, Vite, JavaScript |
+| [**FacturAutentico**](https://github.com/Tiggreee/FacturAutentico) | CFDI 4.0 invoicing system for a real business | React, Vite, JavaScript |
 | [**TriApp**](https://github.com/Tiggreee/TriApp-Frontend) | Full stack app — REST API + auth + frontend | Node.js, Express, MongoDB, React |
 
 ---
