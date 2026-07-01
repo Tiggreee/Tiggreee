@@ -19,6 +19,7 @@
 - **Business focus**: convert requirements into measurable delivery, not demo-only code
 - **Work model**: Remote for US teams, immediate availability, strong US/LatAm timezone overlap
 - **Engagement**: Contractor/B2B friendly, long-term product ownership mindset
+- **Direct contact**: WhatsApp +524341696576 (+52 434 169 6576)
 
 ## About me
 
