@@ -17,7 +17,8 @@
 - **Role fit**: Full Stack Engineer (React, Node.js, TypeScript, PostgreSQL)
 - **What I ship**: production-ready web apps with clear architecture, API reliability, and maintainable code
 - **Business focus**: convert requirements into measurable delivery, not demo-only code
-- **Work model**: Remote / Hybrid, immediate availability, US and LatAm friendly timezone overlap
+- **Work model**: Remote for US teams, immediate availability, strong US/LatAm timezone overlap
+- **Engagement**: Contractor/B2B friendly, long-term product ownership mindset
 
 ## About me
 
